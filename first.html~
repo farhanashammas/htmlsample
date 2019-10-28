@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Farhana</title>
+	</head>
+	<body>
+		<h1> THIS IS MY FIRST PAGE</h1>
+		<p>  This is a paragraph</p>
+		<H2> this is h2</h2>
+		<h3>this is h3</h3>
+		<h4>this is h4</h4>
+		<h5>this is h5</h5>
+		<h6>this is h6</h6>
+		<strong>strong</strong>
+		<strong>strong2</strong>
+		<span>span</span>
+		<em>em</em>
+		<i>i</i>
+		<a href="www.facebook.com" target="_blank"> link</a>
+		<p>CT Academy has been working through a seven pillar program in the areas of Faculty Development, Student Skill Development, Entrepreneurship Development ...</p>
+
+	</body>
+</html>
+

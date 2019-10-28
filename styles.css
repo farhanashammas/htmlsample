@@ -1,0 +1,18 @@
+
+body{
+ 
+   background-image: url(images/bg.jpeg) ;
+   background-repeat: no-repeat;
+   background-size: cover;
+    text-align: center;
+}
+h1{
+    color: red;
+}
+h2{
+    color: rgb(25, 50, 200);
+}
+img{
+    width: 100px;
+    height: 100px;
+}
