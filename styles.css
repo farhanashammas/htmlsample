@@ -5,14 +5,65 @@ body{
    background-repeat: no-repeat;
    background-size: cover;
     text-align: center;
+    margin: 0%;
 }
+
 h1{
     color: red;
-}
-h2{
-    color: rgb(25, 50, 200);
+
 }
 img{
-    width: 100px;
-    height: 100px;
+    width: 40%;
+    height: 40%;
+}
+.header{
+    margin-bottom:30px;
+}
+.left{
+    height:300px;
+    width:40%;
+    background-color:rgba(255, 0, 0, 0.137);
+    padding:20px;
+    margin-left:60px;
+    border-radius: 25px;
+}
+.right{
+    height:300px;
+    width:40%;
+    background-color: rgba(255, 0, 0, 0.137);
+    padding:20px;
+    margin-left:60px;
+    border-radius: 25px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+
+}
+.footer{
+    margin-top:200px;
+    width:100%;
+    height:93px;
+    background-color: beige;
+    
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: beige;
+}
+li{
+    float:left;
+}
+li a{
+    display: block;
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding:14px 16px;
+    text-decoration: none;
 }
